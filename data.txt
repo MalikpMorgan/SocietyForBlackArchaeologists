@@ -1,0 +1,17 @@
+# Data Resources and Tools
+
+## Geospatial and Mapping Platforms
+- https://descarteslabs.com - Satellite Imagery and Analysis
+- https://terrapattern.com - Similar-Looking Places Search
+- https://www.gdeltproject.org/data.html#documentation - Global Database of Events
+
+## Citizen Science and Crowdsourcing
+- https://pybossa.com - Crowdsourcing Framework
+- https://www.datakind.org - Data Science for Social Good
+
+## Research Tools
+- https://github.com/ickramer/Arran - Archaeological Analysis Tools
+- https://www.gbif.org/species/search?offset=20 - Global Biodiversity Database
+
+## Archives
+- https://archive.org - Internet Archive Resources

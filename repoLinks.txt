@@ -1,0 +1,12 @@
+# GitHub Repository References
+
+## Archaeological AI Projects
+- https://github.com/mister-magpie/tell_segmentation - Tell Segmentation Project
+- https://github.com/ickramer/Arran - Arran Archaeological AI Tools
+
+## Research Repositories
+- https://github.com/dzhng/deep-research/tree/main - Deep Research Implementation
+- https://github.com/gaigutherz/Akkademia - Akkadian Language Processing
+
+## Profile Links
+- https://github.com/ickramer?tab=repositories - Iris Kramer's Repository Collection
