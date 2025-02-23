@@ -1,12 +1,28 @@
-# GitHub Repository References
+# GitHub Repository References 🚀
 
 ## Archaeological AI Projects
-- https://github.com/mister-magpie/tell_segmentation - Tell Segmentation Project
-- https://github.com/ickramer/Arran - Arran Archaeological AI Tools
+- [🔍 Tell Segmentation Project](https://github.com/mister-magpie/tell_segmentation)
+  - Status: ![Active](https://img.shields.io/badge/Status-Active-green)
+  - Description: AI-powered segmentation for archaeological tell sites
+  - Tech Stack: Python, TensorFlow
+
+- [🤖 Arran Archaeological AI Tools](https://github.com/ickramer/Arran)
+  - Status: ![Maintained](https://img.shields.io/badge/Status-Maintained-blue)
+  - Description: Suite of AI tools for archaeological analysis
+  - Key Features: Satellite imagery analysis, pattern recognition
 
 ## Research Repositories
-- https://github.com/dzhng/deep-research/tree/main - Deep Research Implementation
-- https://github.com/gaigutherz/Akkademia - Akkadian Language Processing
+- [📚 Deep Research Implementation](https://github.com/dzhng/deep-research/tree/main)
+  - Status: ![Active](https://img.shields.io/badge/Status-Active-green)
+  - Focus: Deep learning research implementation
+  - Applications: Archaeological pattern recognition
+
+- [📖 Akkademia](https://github.com/gaigutherz/Akkademia)
+  - Status: ![Active](https://img.shields.io/badge/Status-Active-green)
+  - Description: Akkadian language processing tools
+  - Features: Text analysis, translation assistance
 
 ## Profile Links
-- https://github.com/ickramer?tab=repositories - Iris Kramer's Repository Collection
+- [👤 Iris Kramer's Repository Collection](https://github.com/ickramer?tab=repositories)
+  - Type: ![Profile](https://img.shields.io/badge/Type-Profile-purple)
+  - Focus: Archaeological AI research

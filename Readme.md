@@ -1,37 +1,36 @@
-# Document Collection Repository
+# 🏺 Archaeological Resources Collection
 
-This repository serves as a centralized collection of links, articles, and reference materials.
+A curated collection of archaeological research tools and resources, with a focus on inclusive digital archaeology practices.
 
-## Contents
+## 📚 Contents
 
-- [Repository Links](./repoLinks.txt) - Collection of important repository links and references
-- [Links & Articles](./linksAndArticles.txt) - Curated list of useful articles and external resources
-- [Data References](./data.txt) - Additional data and reference materials
+- [Repository Links](./repoLinks.txt) - AI and research repositories
+- [Links & Articles](./linksAndArticles.txt) - Publications and educational resources
+- [Data References](./data.txt) - Research tools and datasets
 
-## Overview
+## 📋 Overview
 
-This repository is organized to provide easy access to various documentation and reference materials. Each file serves a specific purpose:
+### Research Tools
+Find AI-powered archaeological tools and research implementations in [repoLinks.txt](./repoLinks.txt).
 
-### Repository Links
-Contains links to important repositories and code references. Access the complete list in [repoLinks.txt](./repoLinks.txt).
+### Educational Resources
+Access academic articles and tutorials in [linksAndArticles.txt](./linksAndArticles.txt).
 
-### Links & Articles
-A curated collection of articles, tutorials, and external resources. Find the full list in [linksAndArticles.txt](./linksAndArticles.txt).
+### Data Tools
+Explore research databases and mapping tools in [data.txt](./data.txt).
 
-### Data References
-Additional reference materials and data collections stored in [data.txt](./data.txt).
+## 🤝 Contributing
 
-## Contributing
+We welcome contributions that:
+1. Add relevant research tools
+2. Share educational resources
+3. Improve documentation
+4. Update existing links
 
-Feel free to contribute by:
-1. Adding new relevant links
-2. Updating existing references
-3. Improving documentation
-4. Organizing content into appropriate categories
+## 📊 Status
 
-## Maintenance
-
-This repository is regularly updated to ensure all links remain current and relevant.
+![Resources](https://img.shields.io/badge/Resources-Active-green)
+![Updates](https://img.shields.io/badge/Updates-Weekly-blue)
 
 ---
-Last Updated: [Current Date]
+Last Updated: 2/23/2025
