@@ -1,23 +1,42 @@
 # 🏺 Archaeological Resources Collection
 
-A curated collection of archaeological research tools and resources, with a focus on inclusive digital archaeology practices.
+A curated collection of archaeological research tools and resources.
 
-## 📚 Contents
+## 🔬 Research & AI Tools
 
-- [Repository Links](./repoLinks.txt) - AI and research repositories
-- [Links & Articles](./linksAndArticles.txt) - Publications and educational resources
-- [Data References](./data.txt) - Research tools and datasets
+| Tool | Description | Status |
+|------|-------------|---------|
+| [Tell Segmentation](https://github.com/mister-magpie/tell_segmentation) | AI-powered archaeological site analysis | ![Active](https://img.shields.io/badge/Status-Active-green) |
+| [Arran Tools](https://github.com/ickramer/Arran) | Archaeological AI toolkit | ![Maintained](https://img.shields.io/badge/Status-Maintained-blue) |
+| [Deep Research](https://github.com/dzhng/deep-research/tree/main) | Pattern recognition implementation | ![Active](https://img.shields.io/badge/Status-Active-green) |
+| [Akkademia](https://github.com/gaigutherz/Akkademia) | Language processing tools | ![Active](https://img.shields.io/badge/Status-Active-green) |
 
-## 📋 Overview
+## 📚 Articles & Resources
 
-### Research Tools
-Find AI-powered archaeological tools and research implementations in [repoLinks.txt](./repoLinks.txt).
+| Resource | Type | Topic |
+|----------|------|-------|
+| [AI Discoveries](https://swisscognitive.ch/2024/10/31/5-archaeological-discoveries-made-by-ai/) | Article | Recent AI findings |
+| [RAG Tutorial](https://www.datacamp.com/tutorial/knowledge-graph-rag) | Tutorial | Knowledge Graphs |
+| [Information Archaeology](https://medium.com/design-bootcamp/information-archaelogy-3af68231138f) | Article | Digital Methods |
+| [Digital Pasts](https://digitalpasts.github.io) | Platform | Archaeological Data |
 
-### Educational Resources
-Access academic articles and tutorials in [linksAndArticles.txt](./linksAndArticles.txt).
+## 🗺️ Data & Mapping Tools
 
-### Data Tools
-Explore research databases and mapping tools in [data.txt](./data.txt).
+| Platform | Features | Access |
+|----------|----------|---------|
+| [Descartes Labs](https://descarteslabs.com) | Satellite imagery analysis | API Available |
+| [Terrapattern](https://terrapattern.com) | Visual pattern search | Free Access |
+| [GBIF Database](https://www.gbif.org/species/search) | Biodiversity data | Public |
+| [PyBossa](https://pybossa.com) | Crowdsourcing platform | Open Source |
+
+## 📊 Research Databases
+
+| Database | Content | Type |
+|----------|---------|------|
+| [GDELT Project](https://www.gdeltproject.org/data.html) | Global events database | Free |
+| [DataKind](https://www.datakind.org) | Data science resources | Public |
+| [Internet Archive](https://archive.org) | Digital archives | Open Access |
+| [Archai](https://www.archai.io/about) | Archaeological AI | Research |
 
 ## 🤝 Contributing
 
