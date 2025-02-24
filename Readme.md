@@ -1,6 +1,6 @@
 # 🏺 Archaeological Resources Collection
 
-A curated collection of archaeological research tools and resources.
+A curated collection of archaeological research tools and open source resources.
 
 ## 📚 Articles & Resources
 
