@@ -25,7 +25,7 @@ A curated collection of archaeological research tools and resources.
 | [GDELT Project](https://www.gdeltproject.org/data.html) | Global events database | Free |
 | [DataKind](https://www.datakind.org) | Data science resources | Public |
 | [Internet Archive](https://archive.org) | Digital archives | Open Access |
-| [Archai](https://www.archai.io/about) | Archaeological AI | Research |
+
 
 ## 🔬 Research & AI Tools
 
@@ -36,6 +36,7 @@ A curated collection of archaeological research tools and resources.
 | [Deep Research](https://github.com/dzhng/deep-research/tree/main) | Pattern recognition implementation | ![Active](https://img.shields.io/badge/Status-Active-green) |
 | [Akkademia Project](https://github.com/gaigutherz/Akkademia?tab=readme-ov-file) | Cuneiform AI Analysis | ![Active](https://img.shields.io/badge/Status-Active-green) |
 | [Archaeological AI Colab](https://colab.research.google.com/drive/1nO0Am-B_X2N1UIxQ0c5UJh_xa_fjUioY?usp=sharing) | Interactive AI Notebook | ![Online](https://img.shields.io/badge/Status-Online-blue) |
+| [Archai](https://www.archai.io/about) | Archaeological AI | Research |
 
 ## 🗺️ Data & Mapping Tools
 
