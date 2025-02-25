@@ -1,6 +1,6 @@
 # 🏺 Archaeological Resources Collection
 
-A curated collection of archaeological research tools and open source resources.
+A curated collection of archaeological research tools and resources.
 
 ## 📚 Articles & Resources
 
@@ -13,6 +13,10 @@ A curated collection of archaeological research tools and open source resources.
 | [RAG Tutorial](https://www.datacamp.com/tutorial/knowledge-graph-rag) | Tutorial | Knowledge Graphs |
 | [Information Archaeology](https://medium.com/design-bootcamp/information-archaelogy-3af68231138f) | Article | Digital Methods |
 | [Digital Pasts](https://digitalpasts.github.io) | Platform | Archaeological Data |
+| [AI for Public Good](https://www.jrf.org.uk/ai-for-public-good/better-results-for-less-money-ai-and-synthesising-knowledge) | Article | AI Research Synthesis |
+| [Royal Society Evidence Synthesis](https://royalsociety.org/news-resources/projects/evidence-synthesis/) | Research | Methodology |
+| [Journal of Next Generation Research](https://jngr5.com/index.php/journal-of-next-generation-resea/AIECT) | Journal | AI & Technology |
+| [Recorder Film](https://recorderfilm.com) | Documentary | Digital Preservation |
 
 ## 📊 Research Databases
 
@@ -30,8 +34,8 @@ A curated collection of archaeological research tools and open source resources.
 | [Tell Segmentation](https://github.com/mister-magpie/tell_segmentation) | AI-powered archaeological site analysis | ![Active](https://img.shields.io/badge/Status-Active-green) |
 | [Arran Tools](https://github.com/ickramer/Arran) | Archaeological AI toolkit | ![Maintained](https://img.shields.io/badge/Status-Maintained-blue) |
 | [Deep Research](https://github.com/dzhng/deep-research/tree/main) | Pattern recognition implementation | ![Active](https://img.shields.io/badge/Status-Active-green) |
-| [Akkademia](https://github.com/gaigutherz/Akkademia) | Language processing tools | ![Active](https://img.shields.io/badge/Status-Active-green) |
-
+| [Akkademia Project](https://github.com/gaigutherz/Akkademia?tab=readme-ov-file) | Cuneiform AI Analysis | ![Active](https://img.shields.io/badge/Status-Active-green) |
+| [Archaeological AI Colab](https://colab.research.google.com/drive/1nO0Am-B_X2N1UIxQ0c5UJh_xa_fjUioY?usp=sharing) | Interactive AI Notebook | ![Online](https://img.shields.io/badge/Status-Online-blue) |
 
 ## 🗺️ Data & Mapping Tools
 
@@ -42,7 +46,7 @@ A curated collection of archaeological research tools and open source resources.
 | [Terrapattern](https://terrapattern.com) | Visual pattern search | Free Access |
 | [GBIF Database](https://www.gbif.org/species/search) | Biodiversity data | Public |
 | [PyBossa](https://pybossa.com) | Crowdsourcing platform | Open Source |
-
+| [Google Earth Engine](https://earthengine.google.com) | Geospatial analysis platform | API Available |
 
 ## 🤝 Contributing
 
