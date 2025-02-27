@@ -19,7 +19,7 @@ A curated collection of archaeological research tools and resources.
 | [Recorder Film](https://recorderfilm.com) | Documentary | Digital Preservation |
 
 ### Featured Integration: Archaeological Researchers
-- The Professor's Will Lead the Way
+- The Professor's Will Lead the Way 💼 
 
 
 ## 📊 Research Databases
