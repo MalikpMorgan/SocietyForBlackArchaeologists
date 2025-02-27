@@ -103,6 +103,23 @@ A curated collection of archaeological research tools and resources.
 - Knowledge graph visualization
 - Semantic relationship mapping
 
+## 🎯 Computer Vision & Object Detection
+
+| Tool | Description | Status |
+|------|-------------|---------|
+| [YOLO12](https://docs.ultralytics.com/models/yolo12/) | Attention-centric object detection | ![New](https://img.shields.io/badge/Status-New-brightgreen) |
+| [Ultralytics YOLOv8](https://docs.ultralytics.com/models/yolov8/) | Real-time object detection | ![Stable](https://img.shields.io/badge/Status-Stable-blue) |
+| [Segment Anything (SAM)](https://segment-anything.com/) | Zero-shot segmentation | ![Active](https://img.shields.io/badge/Status-Active-green) |
+
+### Featured Tool: YOLO12
+- State-of-the-art object detection 
+- Key Features:
+  - Area Attention Mechanism for efficient processing
+  - Support for multiple vision tasks (detection, segmentation, classification)
+  - Real-time performance with high accuracy
+  - Optimized for archaeological site analysis?
+  - Flexible deployment options (edge to cloud)
+
 ## 🤝 Contributing
 
 We welcome contributions that:
