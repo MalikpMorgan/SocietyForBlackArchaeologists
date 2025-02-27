@@ -94,7 +94,7 @@ A curated collection of archaeological research tools and resources.
 | Tool | Description | Status |
 |------|-------------|---------|
 | [Chroma](https://www.trychroma.com/) | Embeddings database for AI | ![Active](https://img.shields.io/badge/Status-Active-green) |
-| [Microsoft Graph](https://learn.microsoft.com/en-us/graph/overview) | Knowledge Graph Platform | ![Stable](https://img.shields.io/badge/Status-Stable-blue) |
+| [Microsoft Graph](https://microsoft.github.io/graphrag/) | Knowledge Graph Rag | ![Stable](https://img.shields.io/badge/Status-Stable-blue) |
 | [Neo4j](https://neo4j.com/) | Graph database platform | ![Stable](https://img.shields.io/badge/Status-Stable-blue) |
 
 ### Featured Integration: Vector Search
