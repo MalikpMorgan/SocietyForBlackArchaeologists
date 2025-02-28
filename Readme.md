@@ -99,16 +99,6 @@ A curated collection of archaeological research tools and resources.
 | [Microsoft Graph](https://microsoft.github.io/graphrag/) | Knowledge Graph Rag | ![Stable](https://img.shields.io/badge/Status-Stable-blue) |
 | [Neo4j](https://neo4j.com/) | Graph database platform | ![Stable](https://img.shields.io/badge/Status-Stable-blue) |
 
-### Featured Tool: RAG Examples
-- Comprehensive collection of RAG implementations:
-  - 🔍 Basic RAG with document retrieval
-  - 🔀 Hybrid semantic and keyword search
-  - 🎯 Multi-Vector RAG implementations
-  - 🧠 Context-aware retrieval systems
-- Perfect for learning RAG architecture
-- Includes practical examples and best practices
-- Python-based implementations
-
 ### Featured Integration: Vector Search
 - Efficient similarity search for archaeological artifacts
 - Document embedding and retrieval
