@@ -74,22 +74,13 @@ This comprehensive collection serves as a central hub for archaeological researc
 | [Akkademia Project](https://github.com/gaigutherz/Akkademia?tab=readme-ov-file) | Cuneiform AI Analysis | ![Active](https://img.shields.io/badge/Status-Active-green) |
 | [Archaeological AI Colab](https://colab.research.google.com/drive/1nO0Am-B_X2N1UIxQ0c5UJh_xa_fjUioY?usp=sharing) | Interactive AI Notebook | ![Online](https://img.shields.io/badge/Status-Online-blue) |
 | [Archai](https://www.archai.io/about) | Archaeological AI | Research |
-| [RAG Examples 🐉](https://github.com/MalikpMorgan/AnalyzingRagSystems) | Comprehensive RAG learning repository | ![New](https://img.shields.io/badge/Status-New-brightgreen) |
+| [RAG Examples](https://github.com/MalikpMorgan/AnalyzingRagSystems) | RAG implementation examples | ![New](https://img.shields.io/badge/Status-New-brightgreen) |
 
 ### Featured Integration: OpenSource AI
 - Perfect example of open source AI tools
 - Potential starting point for building your own AI tools
 - Open source AI tools are a great way to get started with AI
 
-### Featured Tool: RAG Examples Repository 🐉
-- Learning resource for RAG implementation:
-  - Practical examples and demonstrations
-  - Different architectural approaches
-  - Best practices documentation
-  - Step-by-step implementation guides
-- Perfect for developers learning RAG systems
-- Includes multiple implementation strategies
-- Focus on archaeological text processing
 
 ## 🗺️ Data & Mapping Tools
 
