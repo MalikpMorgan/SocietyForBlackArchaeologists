@@ -112,6 +112,8 @@ A curated collection of archaeological research tools and resources.
 | [YOLO12](https://docs.ultralytics.com/models/yolo12/) | Attention-centric object detection | ![New](https://img.shields.io/badge/Status-New-brightgreen) |
 | [Ultralytics YOLOv8](https://docs.ultralytics.com/models/yolov8/) | Real-time object detection | ![Stable](https://img.shields.io/badge/Status-Stable-blue) |
 | [Segment Anything (SAM)](https://segment-anything.com/) | Zero-shot segmentation | ![Active](https://img.shields.io/badge/Status-Active-green) |
+| [MegaDetector](https://github.com/agentmorris/MegaDetector) | AI model for camera trap images | ![Active](https://img.shields.io/badge/Status-Active-green) |
+
 
 ### Featured Tool: YOLO12
 - State-of-the-art object detection 
