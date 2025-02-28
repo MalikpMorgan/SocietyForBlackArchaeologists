@@ -47,6 +47,7 @@ A curated collection of archaeological research tools and resources.
 | [Akkademia Project](https://github.com/gaigutherz/Akkademia?tab=readme-ov-file) | Cuneiform AI Analysis | ![Active](https://img.shields.io/badge/Status-Active-green) |
 | [Archaeological AI Colab](https://colab.research.google.com/drive/1nO0Am-B_X2N1UIxQ0c5UJh_xa_fjUioY?usp=sharing) | Interactive AI Notebook | ![Online](https://img.shields.io/badge/Status-Online-blue) |
 | [Archai](https://www.archai.io/about) | Archaeological AI | Research |
+| [RAG Examples](https://github.com/MalikpMorgan/AnalyzingRagSystems) | RAG implementation examples | ![New](https://img.shields.io/badge/Status-New-brightgreen) |
 
 ### Featured Integration: OpenSource AI
 - Perfect example of open source AI tools
@@ -93,9 +94,20 @@ A curated collection of archaeological research tools and resources.
 
 | Tool | Description | Status |
 |------|-------------|---------|
+| [RAG Examples](https://github.com/MalikpMorgan/AnalyzingRagSystems) | RAG implementation examples | ![New](https://img.shields.io/badge/Status-New-brightgreen) |
 | [Chroma](https://www.trychroma.com/) | Embeddings database for AI | ![Active](https://img.shields.io/badge/Status-Active-green) |
 | [Microsoft Graph](https://microsoft.github.io/graphrag/) | Knowledge Graph Rag | ![Stable](https://img.shields.io/badge/Status-Stable-blue) |
 | [Neo4j](https://neo4j.com/) | Graph database platform | ![Stable](https://img.shields.io/badge/Status-Stable-blue) |
+
+### Featured Tool: RAG Examples
+- Comprehensive collection of RAG implementations:
+  - 🔍 Basic RAG with document retrieval
+  - 🔀 Hybrid semantic and keyword search
+  - 🎯 Multi-Vector RAG implementations
+  - 🧠 Context-aware retrieval systems
+- Perfect for learning RAG architecture
+- Includes practical examples and best practices
+- Python-based implementations
 
 ### Featured Integration: Vector Search
 - Efficient similarity search for archaeological artifacts
