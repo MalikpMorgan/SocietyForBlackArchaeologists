@@ -94,7 +94,6 @@ A curated collection of archaeological research tools and resources.
 
 | Tool | Description | Status |
 |------|-------------|---------|
-| [RAG Examples](https://github.com/MalikpMorgan/AnalyzingRagSystems) | RAG implementation examples | ![New](https://img.shields.io/badge/Status-New-brightgreen) |
 | [Chroma](https://www.trychroma.com/) | Embeddings database for AI | ![Active](https://img.shields.io/badge/Status-Active-green) |
 | [Microsoft Graph](https://microsoft.github.io/graphrag/) | Knowledge Graph Rag | ![Stable](https://img.shields.io/badge/Status-Stable-blue) |
 | [Neo4j](https://neo4j.com/) | Graph database platform | ![Stable](https://img.shields.io/badge/Status-Stable-blue) |
