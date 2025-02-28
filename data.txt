@@ -69,6 +69,21 @@
 | Archive.org | ![Online](https://img.shields.io/badge/Status-Online-green) | Public | Available |
 
 ## Vector Databases & Knowledge Graphs 🔄
+- [**RAG Examples Repository** 🐉](https://github.com/MalikpMorgan/AnalyzingRagSystems)
+  > Type: Educational Resource
+  > Purpose:
+    - RAG implementation examples
+    - Architectural demonstrations
+    - Learning resource
+    - Best practices guide
+  > Features:
+    - Multiple RAG approaches
+    - Practical implementations
+    - Developer documentation
+    - Archaeological use cases
+  > Status: ![New](https://img.shields.io/badge/Status-New-brightgreen)
+  > Use Case: Learning RAG architecture
+
 - [**Weaviate**](https://weaviate.io/)
   > Type: Vector Database
   > Features:
