@@ -37,6 +37,7 @@ This comprehensive collection serves as a central hub for archaeological researc
 | [São José Slave Ship](https://slavewrecksproject.org/blog-hub/from-no-return-the-journey-of-the-slave-ship-sao-jose) | Case Study | Underwater Archaeology |
 | [Biscayne Research](https://slavewrecksproject.org/blog-hub/reflections-on-a-summer-in-biscayne) | Field Report | Marine Archaeology |
 | [AI Discoveries](https://swisscognitive.ch/2024/10/31/5-archaeological-discoveries-made-by-ai/) | Article | Recent AI findings |
+| [AWS RAG Guide](https://aws.amazon.com/what-is/retrieval-augmented-generation/) | Documentation | RAG Implementation |
 | [RAG Tutorial](https://www.datacamp.com/tutorial/knowledge-graph-rag) | Tutorial | Knowledge Graphs |
 | [Information Archaeology](https://medium.com/design-bootcamp/information-archaelogy-3af68231138f) | Article | Digital Methods |
 | [Digital Pasts](https://digitalpasts.github.io) | Platform | Archaeological Data |
