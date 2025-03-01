@@ -59,6 +59,8 @@ This comprehensive collection serves as a central hub for archaeological researc
 | [DataKind](https://www.datakind.org) | Data science resources | Public |
 | [Internet Archive](https://archive.org) | Digital archives | Open Access |
 | [GBIF Database](https://www.gbif.org/species/search) | Biodiversity data | Public |
+| [DAACS Database](https://www.daacs.org/query-the-database/) | Digital Archaeological Archive | Research |
+
 
 ### Featured Integration: OpenSource Data
 - Open source Data is a great way to get started with data science
@@ -109,10 +111,14 @@ This comprehensive collection serves as a central hub for archaeological researc
 | Tool | Description | Status |
 |------|-------------|---------|
 | [Ollama](https://ollama.com) | Local LLM deployment platform | ![Active](https://img.shields.io/badge/Status-Active-green) |
+| [Python](https://www.python.org) | Programming language for scientific computing | ![Stable](https://img.shields.io/badge/Status-Stable-blue) |
 | [Jupyter Lab](https://jupyter.org/) | Interactive development environment | ![Stable](https://img.shields.io/badge/Status-Stable-blue) |
 | [VSCode](https://code.visualstudio.com/) | Code editor  | ![Active](https://img.shields.io/badge/Status-Active-green) |
 | [Docker](https://www.docker.com/) | Containerization for archaeological tools | ![Stable](https://img.shields.io/badge/Status-Stable-blue) |
 | [Anaconda](https://www.anaconda.com/) | Python distribution for data science | ![Active](https://img.shields.io/badge/Status-Active-green) |
+| [MySQL](https://www.mysql.com/downloads/) | Open Source Database | Enterprise/Community |
+
+
 
 ### Featured Tool: Ollama
 - Run Llama 2, Mistral, and other LLMs locally
