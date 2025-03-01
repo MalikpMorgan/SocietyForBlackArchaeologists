@@ -104,7 +104,7 @@ This comprehensive collection serves as a central hub for archaeological researc
 - Perfect for archaeological mapping and analysis
 - Supports vector data, raster data, and 3D models
 
-## 💻 Local Development Environment
+## 💻 Local Development Environment + AI/ML
 
 | Tool | Description | Status |
 |------|-------------|---------|
