@@ -133,8 +133,11 @@ This comprehensive collection serves as a central hub for archaeological researc
 | [Chroma](https://www.trychroma.com/) | Embeddings database for AI | ![Active](https://img.shields.io/badge/Status-Active-green) |
 | [Microsoft Graph](https://microsoft.github.io/graphrag/) | Knowledge Graph Rag | ![Stable](https://img.shields.io/badge/Status-Stable-blue) |
 | [Neo4j](https://neo4j.com/) | Graph database platform | ![Stable](https://img.shields.io/badge/Status-Stable-blue) |
+| [LightRAG](https://lightrag.github.io) | Simple and fast RAG implementation | ![New](https://img.shields.io/badge/Status-New-brightgreen) |
+| [Minions](https://github.com/HazyResearch/minions) | Modular RAG components | ![Active](https://img.shields.io/badge/Status-Active-green) |
 
-### Featured Integration: Vector Search
+
+### Featured Integration: Vector Search & Knowledge Graphs
 - Efficient similarity search for archaeological artifacts
 - Document embedding and retrieval
 - Knowledge graph visualization
